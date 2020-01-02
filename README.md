@@ -3,9 +3,9 @@
 Simple react native to do list
 
 <p align="center" >
-    <img title="Restful API" height='400' src="https://res.cloudinary.com/iyansrcloud/image/upload/v1577947728/todo/home_hizavy.png">
-    <img title="Restful API" height='400' src="https://res.cloudinary.com/iyansrcloud/image/upload/v1577947728/todo/post_mttiyv.png">
-    <img title="Restful API" height='400' src="https://res.cloudinary.com/iyansrcloud/image/upload/v1577947728/todo/location_zjenbi.png">
+    <img title="Home" height='500' src="https://res.cloudinary.com/iyansrcloud/image/upload/v1577947728/todo/home_hizavy.png">
+    <img title="Post" height='500' src="https://res.cloudinary.com/iyansrcloud/image/upload/v1577947728/todo/post_mttiyv.png">
+    <img title="Location" height='500' src="https://res.cloudinary.com/iyansrcloud/image/upload/v1577947728/todo/location_zjenbi.png">
 </p>
 
  ### Features
